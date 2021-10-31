@@ -6,6 +6,6 @@ if ($hari = "minggu") {
     echo "selamat bekerja";
 }
 
-echo ($hari = "senin")? "true" : "false";
+echo ($hari = "senin")?  "true" : "false";
 
 ?>

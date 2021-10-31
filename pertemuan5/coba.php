@@ -1,5 +1,4 @@
 <?php 
-    echo "Dandi Rasyid"
-    
+    $siswa 
 
 ?>
